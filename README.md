@@ -8,7 +8,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Navigate to [https://www.pexels.com/api/new](https://www.pexels.com/api/new) and create a new API key. Rename [`.env.example`] to [`.env.local`] and add the API key in it:
+Navigate to [https://www.pexels.com/api/new](https://www.pexels.com/api/new) and create a new API key. Create a `.env.local` file and add the API key in it:
 
 ```bash
 NEXT_PUBLIC_PEXELS_API_KEY=
